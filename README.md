@@ -18,7 +18,7 @@ The To-Do List Web Application is a simple and elegant task management tool buil
 
 ## Demo
 
-Check out the live demo [here]([https://your-demo-link.com](https://smartyraj.github.io/OCTANET_SEPTEMBER_TODO_List/)).
+Check out the live demo [here]([https://your-demo-link.com]).
 
 ## Features
 
