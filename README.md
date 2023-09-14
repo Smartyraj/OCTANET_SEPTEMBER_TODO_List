@@ -34,7 +34,7 @@ To get started with the To-Do List Web Application, follow these steps:
 1. Clone the repository to your local machine using `git clone`.
 
    ```bash
-   [git clone https://github.com/Smartyraj/OCTANET_SEPTEMBER_TODO_List.git]
+   git clone https://github.com/Smartyraj/OCTANET_SEPTEMBER_TODO_List.git
    ```
 
 2. Open the `index.html` file in your web browser or host it on a web server.
