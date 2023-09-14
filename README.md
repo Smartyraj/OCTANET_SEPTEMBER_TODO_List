@@ -18,7 +18,7 @@ The To-Do List Web Application is a simple and elegant task management tool buil
 
 ## Demo
 
-Check out the live demo [here]([https://your-demo-link.com]).
+Check out the live demo [[here](https://smartyraj.github.io/OCTANET_SEPTEMBER_TODO_List/)
 
 ## Features
 
@@ -34,7 +34,7 @@ To get started with the To-Do List Web Application, follow these steps:
 1. Clone the repository to your local machine using `git clone`.
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/yourusername/your-repo.git](https://github.com/Smartyraj/OCTANET_SEPTEMBER_TODO_List.git
    ```
 
 2. Open the `index.html` file in your web browser or host it on a web server.
